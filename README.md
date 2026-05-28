@@ -1,10 +1,8 @@
-qgis-template.github.io
-=================
+qgis.ca Website template
+========================
 
-Template for QGIS User Group Website.
-Based on https://github.com/qgis-us.
+Simple template for the QGIS Canada User Group website.
+Based on QGIS Tanzania: https://heed725.github.io/qgistz/, which was 
+likely based on QGIS Kenya: https://qgis.or.ke/
 
-TBD: list here files to change for localization.
 
-* change CNAME record
-* in ``index.html`` replace ``##`` with country 
